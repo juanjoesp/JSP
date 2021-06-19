@@ -1,0 +1,22 @@
+@charset "utf-8";
+body{
+	background-color: #E5EDED;
+	font-family: arial;
+}
+
+#main-container{
+	margin: 150px auto;
+	width: 600px;	
+}
+table{
+	background-color: #A2D9ED;
+	text-align: left;
+	border-collapse: collapse;
+	border: 1px solid;
+	margin: 0 auto;	
+}
+th, td{
+	border:solid 1px black;
+	padding: 15px;
+}
+
